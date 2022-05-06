@@ -32,7 +32,6 @@ def get_multiple(i):
   return i
 
 def __gradeCalculator(grades):
-    # Write your code here
     for i in grades:
       index = grades.index(i)
       if i < 38:
